@@ -1,6 +1,6 @@
 # Modern Todo App
 
-This modern todo app is created with reactJs and react hooks. This Todo list app is used to maintain our day-to-day tasks or list everything that we have to do. It is helpful in planning our daily schedules. We can add more tasks, update existing task at any time and delete a task that is completed
+This modern todo app is created with reactJs and react hooks. This Todo list app is used to maintain our day-to-day tasks or list everything that we have to do. It is helpful in planning our daily schedules. We can add more tasks, update existing task at any time and delete a task that is completed.
 
 ### `Live Site`
 
