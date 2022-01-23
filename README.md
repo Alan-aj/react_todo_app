@@ -4,7 +4,7 @@ This modern todo app is created with reactJs and react hooks. This Todo list app
 
 ### `Live Site`
 
-Check now: [Todo app](https://jovial-engelbart-af6214.netlify.app)
+Check now: [Todo-Zone](https://todo-zone.netlify.app)
 
 ### Features
 
